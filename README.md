@@ -6,6 +6,7 @@ Sign up, create a new bookmark, add a note, share it with other users, categoriz
 * Wrote back end with PHP, notification feature with AJAX, and front end with Materialize CSS.
 * Users can sign up, get notifications, categorize their bookmarks, and search keywords. The platform only allows valid URL addresses.
 
+##### Technologies used: Php, CSS, JavaScript, Jquery, Ajax
 
 FEATURES
 - Sign in.
@@ -31,3 +32,4 @@ HOW TO RUN
 - Go to phpmyadmin and import the sql file into the bms database
 - Type " localhost/<file_name_here> " to the URL address bar
 - Press enter
+
