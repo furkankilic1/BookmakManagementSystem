@@ -1,4 +1,4 @@
-# BookmarkManagementSystem
+# Bookmark Management System (BMS)
 
 Sign up, create a new bookmark, add a note, share it with other users, categorize your bookmarks, edit them, get notified and do much more!
 
