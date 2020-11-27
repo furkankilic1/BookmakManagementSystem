@@ -33,3 +33,9 @@ HOW TO RUN
 - Type " localhost/<file_name_here> " to the URL address bar
 - Press enter
 
+
+![1](https://user-images.githubusercontent.com/58864953/100450040-04602600-30c6-11eb-9583-537e14d9a834.jpg)
+![2](https://user-images.githubusercontent.com/58864953/100450044-0629e980-30c6-11eb-803f-27dafd10b8f9.jpg)
+![3](https://user-images.githubusercontent.com/58864953/100450050-075b1680-30c6-11eb-8be6-7dac53746880.jpg)
+
+
