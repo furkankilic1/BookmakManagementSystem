@@ -1,12 +1,12 @@
 # Bookmark Management System (BMS)
 
-Sign up, create a new bookmark, add a note, share it with other users, categorize your bookmarks, edit them, get notified and do much more!
+##### Sign up, create a new bookmark, add a note, share it with other users, categorize your bookmarks, edit them, get notified and do much more!
 
 * An online bookmark managing platform where users can also share their bookmarks with other users.
 * Wrote back end with PHP, notification feature with AJAX, and front end with Materialize CSS.
 * Users can sign up, get notifications, categorize their bookmarks, and search keywords. The platform only allows valid URL addresses.
 
-##### Technologies used: Php, CSS, JavaScript, Jquery, Ajax
+#### Technologies used: Php, CSS, JavaScript, Jquery, Ajax
 
 #### FEATURES
 - Sign in.
