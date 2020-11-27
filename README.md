@@ -8,7 +8,7 @@ Sign up, create a new bookmark, add a note, share it with other users, categoriz
 
 ##### Technologies used: Php, CSS, JavaScript, Jquery, Ajax
 
-FEATURES
+#### FEATURES
 - Sign in.
 - Edit your profile.
 - Add a profile image.
@@ -22,7 +22,7 @@ FEATURES
 - Get notified when others share bookmarks with you.
 - Add shared bookmarks to your bookmarks.
 
-HOW TO RUN
+#### HOW TO RUN
 - Download WAMP server
 - Unzip the files
 - Copy the unzipped file into C:/Wamp64/www
